@@ -155,7 +155,7 @@ export default (adverb) => {
 
     return reduxForm(
         {
-            form: adverb, // no need to add fields array in this version of ReduxForm
+            form: 'sign' + adverb, // no need to add fields array in this version of ReduxForm
             validate
         }
     )(
