@@ -1,12 +1,13 @@
 # ReduxSimpleStarterRefreshed
 
-This fork contains the following updates as of 3/27/2018:
+This fork contains the following updates as of 3/28/2018:
 - Upgraded to React 16.
 - Upgraded to React-Redux 5.
 - Upgraded to Webpack 4.
-- Changed babel preset to 'env': https://www.npmjs.com/package/babel-preset-env 
+- Changed babel preset to 'env': https://www.npmjs.com/package/babel-preset-env
 - Moved from using Mocha/Chai to Jest/Enzyme.
 - Package control using Yarn instead of NPM.
+- Added support for JS object rest spread (...destructuring) and class properties.
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
