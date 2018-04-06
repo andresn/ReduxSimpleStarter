@@ -37,12 +37,6 @@ Click [here](https://github.com/andresn/ReduxSimpleStarterRefreshed/releases) th
 This repo uses Jest and Enzyme for testing. Here's a great video intro: https://www.youtube.com/watch?v=aSQ8v9JH5C8
 
 ```
-> yarn test
-<<<<<<< HEAD
-> yarn test:watch # tests will run as you make modifications
-```
-=======
 > yarn test:watch # Tests will run as you make modifications
 > yarn test:cover # Produce a code coverage report. Open ./coverage/Icov-report/index.html in browser and profit!
 ```
->>>>>>> ReduxSimpleStarterRefreshed
